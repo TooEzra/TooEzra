@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @TooEzra
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ezraktoo@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ...Ezzy
 
 <!---
 TooEzra/TooEzra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
