@@ -19,7 +19,7 @@
 ---
 
 ### *> About Me 🤓*
-I am Ezra Kipkoech.I am a fourth year student in Moi University pursuing Bachelor of Engineering in Electrical and Telecommunications Engineering. I am also a Full-Stack developer 
+I am Ezra Kipkoech. I am a fourth year student in Moi University pursuing Bachelor of Engineering in Electrical and Telecommunications Engineering. I am also a Full-Stack developer 
 
 ### *> CURRENTLY BREACHING 🎯* 
 
@@ -57,10 +57,16 @@ I am Ezra Kipkoech.I am a fourth year student in Moi University pursuing Bachelo
 
 ---
 
-### *> NEURAL STATS*
+### *> NEURAL STATS 📊*
 
 <div>
+  <!-- Profile Views / Visitors -->
+  <img src="https://komarev.com/ghpvc/?username=TooEzra&label=PROFILE%20VIEWS&color=00ff9d&style=for-the-badge&labelColor=0a0a0a" alt="Profile Views">
+  
+  <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=TooEzra&show_icons=true&theme=dracula&hide_border=true&bg_color=0a0a0a&title_color=00ff9d&text_color=ffffff" height="170">
+  
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TooEzra&theme=dracula&hide_border=true&background=0a0a0a&stroke=00ff9d&ring=ff00ff&fire=00f0ff&currStreakNum=00ff9d" height="170">
 </div>
 
