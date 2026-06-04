@@ -36,7 +36,7 @@
 
 ### **> TECH ARSENAL**
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React">
@@ -52,7 +52,7 @@
 
 ### **> TOOLS**
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VS Code">
   <img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white&style=for-the-badge" alt="Cursor">
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman">
@@ -64,7 +64,7 @@
 
 ### **> NEURAL STATS**
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=TooEzra&show_icons=true&theme=dracula&hide_border=true&bg_color=0a0a0a&title_color=00ff9d&text_color=ffffff" height="170">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TooEzra&theme=dracula&hide_border=true&background=0a0a0a&stroke=00ff9d&ring=ff00ff&fire=00f0ff&currStreakNum=00ff9d" height="170">
 </div>
@@ -73,7 +73,7 @@
 
 ### **> CONNECT TO THE NETWORK**
 
-<div align="center">
+<div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/TooEzra)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ezra-kipkoech-063291289/)
