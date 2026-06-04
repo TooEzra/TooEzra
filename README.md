@@ -29,7 +29,7 @@ I am Ezra Kipkoech.I am a fourth year student in Moi University pursuing Bachelo
 
 ---
 
-### *> TECH ARSENAL 💻  *
+### *> TECH ARSENAL 💻*
 
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
@@ -45,7 +45,7 @@ I am Ezra Kipkoech.I am a fourth year student in Moi University pursuing Bachelo
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" alt="GitHub Actions">
 </div>
 
-### **>🛠️  TOOLS**
+### *> TOOLS 🛠️*
 
 <div>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VS Code">
@@ -57,7 +57,7 @@ I am Ezra Kipkoech.I am a fourth year student in Moi University pursuing Bachelo
 
 ---
 
-### **> NEURAL STATS**
+### *> NEURAL STATS*
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=TooEzra&show_icons=true&theme=dracula&hide_border=true&bg_color=0a0a0a&title_color=00ff9d&text_color=ffffff" height="170">
