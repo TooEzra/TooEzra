@@ -17,7 +17,7 @@
 
 ### **> SYSTEM STATUS**
 
-```yaml
+
 Name: Ezzy (TooEzra)
 Role: Full-Stack Developer
 Location: Running in the Grid
@@ -63,4 +63,4 @@ Tools: VS Code • Cursor • Postman • Git • Render
 
   <img src="https://capsule-render.vercel.app/api?type=slice&#x26;color=00ff9d&#x26;height=30&#x26;section=footer&#x26;text=STAY%20IN%20THE%20NEON%20&#x26;fontColor=0a0a0a&#x26;fontSize=20" width="100%">
 
-```
+
