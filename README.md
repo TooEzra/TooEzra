@@ -5,10 +5,10 @@
        style="border-radius: 12px; border: 2px solid #00ff9d;">
 
   <h1>
-    <span style="color:#00ff9d;">⚡️</span> 
+    <span style="color:#00ff9d;"></span> 
     <span style="color:#ff00ff;">H</span><span style="color:#00f0ff;">e</span><span style="color:#ff00ff;">l</span><span style="color:#00f0ff;">l</span><span style="color:#ff00ff;">o</span>, 
-    I'm <span style="color:#00ff9d;">Ezzy</span>
-    <span style="color:#00ff9d;">⚡️</span>
+    Hey there, I'm <span style="color:#00ff9d;">Ezra Kipkoech</span>
+    <span style="color:#00ff9d;"></span>
   </h1>
 
   <h3><strong>Full-Stack Developer</strong> navigating the digital neon grid</h3>
@@ -18,17 +18,12 @@
 
 ---
 
-### **> SYSTEM STATUS**
+### **>About Me**
+I am Ezra Kipkoech.I am a fourth year student in Moi University pursuing Bachelor of Engineering in Electrical and Telecommunications Engineering. I am also a Full-Stack developer 
 
-- Name: Ezzy (TooEzra)
-- Role: Full-Stack Developer
-- Location: Running in the Grid
-- Current Mission: Electrical & Telecommunications Engineering
-- Status: ONLINE
+### **> CURRENTLY BREACHING** 
 
-### **> CURRENTLY BREACHING**
-
-- Pursuing **BSc. in Electrical and Telecommunications Engineering**
+- Pursuing **B.Eng. in Electrical and Telecommunications Engineering**
 - Building full-stack systems with bleeding-edge technologies
 - Exploring the fusion of hardware and software
 
