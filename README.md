@@ -1,6 +1,10 @@
+
 <div align="center">
-  <img src="https://github.com/TooEzra/TooEzra/blob/main/banner.gif?raw=true" alt="Cyberpunk Banner" width="100%" style="border-radius: 12px; border: 2px solid #00ff9d;">
-  
+  <img src="https://github.com/TooEzra/TooEzra/blob/main/banner.gif?raw=true" 
+       alt="Cyberpunk Banner" 
+       width="100%" 
+       style="border-radius: 12px; border: 2px solid #00ff9d;">
+
   <h1>
     <span style="color:#00ff9d;">⚡️</span> 
     <span style="color:#ff00ff;">H</span><span style="color:#00f0ff;">e</span><span style="color:#ff00ff;">l</span><span style="color:#00f0ff;">l</span><span style="color:#ff00ff;">o</span>, 
@@ -17,50 +21,64 @@
 
 ### **> SYSTEM STATUS**
 
-
 Name: Ezzy (TooEzra)
 Role: Full-Stack Developer
 Location: Running in the Grid
-Current Mission: Electrical & Telecommunications Engineering Degree
+Current Mission: Electrical & Telecommunications Engineering
 Status: ONLINE
-> CURRENTLY BREACHING
-
-Pursuing my BSc. in Electrical and Telecommunications Engineering
-Building full-stack systems with bleeding-edge web technologies
-Exploring the intersection of hardware and software
 
 
-> TECH ARSENAL
+### **> CURRENTLY BREACHING**
 
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&#x26;logoColor=white&#x26;style=for-the-badge" alt="Node.js">
-<img src="https://img.shields.io/badge/Express.js-000000?logo=express&#x26;logoColor=white&#x26;style=for-the-badge" alt="Express">
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&#x26;logoColor=black&#x26;style=for-the-badge" alt="React">
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&#x26;logoColor=white&#x26;style=for-the-badge" alt="Vue.js">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&#x26;logoColor=black&#x26;style=for-the-badge" alt="JavaScript">
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&#x26;logoColor=white&#x26;style=for-the-badge" alt="MongoDB">
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&#x26;logoColor=white&#x26;style=for-the-badge" alt="MySQL">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&#x26;logoColor=white&#x26;style=for-the-badge" alt="Python">
-<img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&#x26;logoColor=white&#x26;style=for-the-badge" alt="Vercel">
-<img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&#x26;logoColor=white&#x26;style=for-the-badge" alt="Netlify">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&#x26;logoColor=white&#x26;style=for-the-badge" alt="GitHub Actions">
+- Pursuing **BSc. in Electrical and Telecommunications Engineering**
+- Building full-stack systems with bleeding-edge technologies
+- Exploring the fusion of hardware and software
 
-Tools: VS Code • Cursor • Postman • Git • Render
+---
 
-> NEURAL STATS
+### **> TECH ARSENAL**
 
-  <img src="https://github-readme-stats.vercel.app/api?username=TooEzra&#x26;show_icons=true&#x26;theme=dracula&#x26;hide_border=true&#x26;bg_color=0a0a0a&#x26;title_color=00ff9d&#x26;text_color=00f0ff" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TooEzra&#x26;theme=dracula&#x26;hide_border=true&#x26;background=0a0a0a&#x26;stroke=00ff9d&#x26;ring=ff00ff&#x26;fire=00f0ff&#x26;currStreakNum=00ff9d" height="170">
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" alt="Vue.js">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" alt="Netlify">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" alt="GitHub Actions">
+</div>
 
+**Tools:** `VS Code` • `Cursor` • `Postman` • `Git` • `Render`
 
-> CONNECT TO THE NETWORK
+---
 
-<img src="https://img.shields.io/badge/Github-000000?logo=github&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge">
+### **> NEURAL STATS**
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TooEzra&show_icons=true&theme=dracula&hide_border=true&bg_color=0a0a0a&title_color=00ff9d&text_color=ffffff" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TooEzra&theme=dracula&hide_border=true&background=0a0a0a&stroke=00ff9d&ring=ff00ff&fire=00f0ff&currStreakNum=00ff9d" height="170">
+</div>
 
+---
 
-  <img src="https://capsule-render.vercel.app/api?type=slice&#x26;color=00ff9d&#x26;height=30&#x26;section=footer&#x26;text=STAY%20IN%20THE%20NEON%20&#x26;fontColor=0a0a0a&#x26;fontSize=20" width="100%">
+### **> CONNECT TO THE NETWORK**
 
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/TooEzra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ezra-kipkoech-063291289/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ezraktoo09@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=00ff9d&height=30&section=footer&text=STAY%20IN%20THE%20NEON&fontColor=0a0a0a&fontSize=20" width="100%">
+</div>
 
