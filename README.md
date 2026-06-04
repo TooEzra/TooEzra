@@ -6,8 +6,8 @@
 
   <h1>
     <span style="color:#00ff9d;"></span> 
-    <span style="color:#ff00ff;">H</span><span style="color:#00f0ff;">e</span><span style="color:#ff00ff;">l</span><span style="color:#00f0ff;">l</span><span style="color:#ff00ff;">o</span>, 
-    Hey there, I'm <span style="color:#00ff9d;">Ezra Kipkoech</span>
+    <span style="color:#ff00ff;">He</span><span style="color:#00f0ff;">y</span><span style="color:#ff00ff;"> </span><span style="color:#00f0ff;">th</span><span style="color:#ff00ff;">ere</span>, 
+     I'm <span style="color:#00ff9d;">Ezra Kipkoech</span>
     <span style="color:#00ff9d;"></span>
   </h1>
 
