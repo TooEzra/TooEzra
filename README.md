@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://github.com/TooEzra/TooEzra/blob/main/banner.gif?raw=true" 
        alt="Cyberpunk Banner" 
@@ -21,12 +20,11 @@
 
 ### **> SYSTEM STATUS**
 
-Name: Ezzy (TooEzra)
-Role: Full-Stack Developer
-Location: Running in the Grid
-Current Mission: Electrical & Telecommunications Engineering
-Status: ONLINE
-
+- Name: Ezzy (TooEzra)
+- Role: Full-Stack Developer
+- Location: Running in the Grid
+- Current Mission: Electrical & Telecommunications Engineering
+- Status: ONLINE
 
 ### **> CURRENTLY BREACHING**
 
@@ -52,7 +50,15 @@ Status: ONLINE
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" alt="GitHub Actions">
 </div>
 
-**Tools:** `VS Code` • `Cursor` • `Postman` • `Git` • `Render`
+### **> TOOLS**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VS Code">
+  <img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white&style=for-the-badge" alt="Cursor">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
+  <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black&style=for-the-badge" alt="Render">
+</div>
 
 ---
 
@@ -71,7 +77,8 @@ Status: ONLINE
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/TooEzra)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ezra-kipkoech-063291289/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/its_ezzyt)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/Archking_09)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ezraktoo09@gmail.com)
 
 </div>
@@ -81,4 +88,3 @@ Status: ONLINE
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=00ff9d&height=30&section=footer&text=STAY%20IN%20THE%20NEON&fontColor=0a0a0a&fontSize=20" width="100%">
 </div>
-
