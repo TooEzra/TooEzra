@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <img src="https://github.com/TooEzra/TooEzra/blob/main/banner.gif?raw=true" 
        alt="Cyberpunk Banner" 
        width="100%" 
