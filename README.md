@@ -7,7 +7,7 @@
   <h1>
     <span style="color:#00ff9d;"></span> 
     <span style="color:#ff00ff;">He</span><span style="color:#00f0ff;">y</span><span style="color:#ff00ff;"> </span><span style="color:#00f0ff;">th</span><span style="color:#ff00ff;">ere</span>, 
-     I'm <span style="color:#00ff9d;">Ezra Kipkoech</span>
+     I'm <span style="color:#00ff9d;">Ezra Kipkoech 👋</span>
     <span style="color:#00ff9d;"></span>
   </h1>
 
@@ -18,10 +18,10 @@
 
 ---
 
-### **>About Me**
+### **>🤓 About Me**
 I am Ezra Kipkoech.I am a fourth year student in Moi University pursuing Bachelor of Engineering in Electrical and Telecommunications Engineering. I am also a Full-Stack developer 
 
-### **> CURRENTLY BREACHING** 
+### **>🎯 CURRENTLY BREACHING** 
 
 - Pursuing **B.Eng. in Electrical and Telecommunications Engineering**
 - Building full-stack systems with bleeding-edge technologies
@@ -29,7 +29,7 @@ I am Ezra Kipkoech.I am a fourth year student in Moi University pursuing Bachelo
 
 ---
 
-### **> TECH ARSENAL**
+### **> 💻 TECH ARSENAL **
 
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
@@ -45,7 +45,7 @@ I am Ezra Kipkoech.I am a fourth year student in Moi University pursuing Bachelo
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" alt="GitHub Actions">
 </div>
 
-### **> TOOLS**
+### **>🛠️  TOOLS**
 
 <div>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VS Code">
@@ -66,7 +66,7 @@ I am Ezra Kipkoech.I am a fourth year student in Moi University pursuing Bachelo
 
 ---
 
-### **> CONNECT TO THE NETWORK**
+### **> LET'S NETWORK😊**
 
 <div>
 
