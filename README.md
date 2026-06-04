@@ -19,7 +19,7 @@
 ---
 
 ### *> About Me 🤓*
-I am Ezra Kipkoech. I am a fourth year student in Moi University pursuing Bachelor of Engineering in Electrical and Telecommunications Engineering. I am also a Full-Stack developer 
+- I am Ezra Kipkoech. I am a fourth year student in Moi University pursuing Bachelor of Engineering in Electrical and Telecommunications Engineering. I am also a Full-Stack developer 
 
 ### *> CURRENTLY BREACHING 🎯* 
 
