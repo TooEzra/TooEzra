@@ -18,10 +18,10 @@
 
 ---
 
-### **>🤓 About Me**
+### *> About Me 🤓*
 I am Ezra Kipkoech.I am a fourth year student in Moi University pursuing Bachelor of Engineering in Electrical and Telecommunications Engineering. I am also a Full-Stack developer 
 
-### **>🎯 CURRENTLY BREACHING** 
+### *> CURRENTLY BREACHING 🎯* 
 
 - Pursuing **B.Eng. in Electrical and Telecommunications Engineering**
 - Building full-stack systems with bleeding-edge technologies
@@ -29,7 +29,7 @@ I am Ezra Kipkoech.I am a fourth year student in Moi University pursuing Bachelo
 
 ---
 
-### **> 💻 TECH ARSENAL **
+### *> TECH ARSENAL 💻  *
 
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
